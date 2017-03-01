@@ -1,5 +1,7 @@
 # karl
-Opgaver til Karl
+Opgaver til Karl.
+
+Du kan skrive notater i [Wiki'en](https://github.com/dotnetCarpenter/karl/wiki/Notater).
 
 ## Opgaver
 
