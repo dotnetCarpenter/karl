@@ -21,6 +21,7 @@ Til at starte med bruger vi link'ing af tabeller.
 
 ## Eksport
 
-Lav en eksport af alle tabellerne fra rethinkdb.
+Lav en eksport af alle tabellerne fra rethinkdb og gem
+det i mappen **ass1**.
 
 God fornøjelse og ses ved kode bordet.
